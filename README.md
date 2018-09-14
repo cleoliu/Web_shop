@@ -1,3 +1,7 @@
+## Requirements
+* windows
+* java
+
 ## Help
 * Main：Uitox.java
 * Method：Method.java
